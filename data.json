@@ -1,0 +1,39 @@
+[
+	{
+	"name":"Applejack",
+	"age":"10",
+	"description": "Très honnête Applejack ne ment jamais et elle n'a pas peur de se salir les sabots et elle sait ce que travailler dur veut dire ! ",
+	"img":"./applepie.png"
+},
+	{
+	"name":"Twilight Sparkle",
+	"age":"10",
+	"description":  "Twilight Sparkle est devenue une princesse ! Les poneys de Ponyville la respecte beaucoup pour son intelligence. C'est aussi une meneuse qui sait utiliser les capacités et les talents de ses amis pour accomplir leurs missions.",
+	"img":"./twilight.jpg"
+},
+	{
+	"name":"Rainbow Dash",
+	"age":"10",
+	"description":  "Ce qui passionne Rainbow Dash plus que tout au monde, c'est voler et voler vite ! Sportive et pleine de ressources, elle vit pour l'aventure ! ",
+	"img":"./rainbow.png"
+},
+	{
+	"name":"Pinkie pie",
+	"age":"10",
+	"description":  "Tout au long de la journée Pinkie Pie fait rire et sourire ses amis ! Elle saute sur n'importe quel prétexte pour faire la fête et rendre ses amis heureux ! ",
+	"img":"./pinkypie.png"
+}
+,
+	{
+	"name":"Rarity",
+	"age":"10",
+	"description":  "La belle et artiste Rarity est une artiste talentueuse  ! Elle trouve toujours le temps d'aider ses amies en leur donnant des conseils concernant la mode ! ",
+	"img":"./rarity.png"
+},
+	{
+	"name":"Fluttershy",
+	"age":"10",
+	"description":  "Fluttershy adore toutes les créatures d'Equestria qu'elles soient grandes ou petites. Même si elle est timide, elle a toujours une place dans sa petite maison à l'écart pour tous ses amis animaux ! ",
+	"img":"./fluttershy.png"
+}
+]
